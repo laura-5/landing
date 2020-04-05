@@ -1,0 +1,22 @@
+.banner {
+  padding: 180px 20px;
+  background-image: url('https://arthur-littm.github.io/startup-landing/images/background.png');
+
+}
+
+.container {
+  margin: 0px auto;
+  width: 800px;
+  padding: 25px;
+}
+
+.flexcards {
+  display: flex;
+  justify-content: space-between;
+}
+
+footer {
+  background-color: #2C2B2B;
+  text-align: center;
+  padding: 50px 50px;
+}
